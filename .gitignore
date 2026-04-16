@@ -1,0 +1,36 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Lua / local tooling cache
+.luacache/
+luac.out
+.luarc.json
+.rocks/
+luarocks/
+
+# Logs
+*.log
+logs/
+
+# Local environment overrides
+.env
+.env.*
+!.env.example
+
+# Build / release archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.tgz

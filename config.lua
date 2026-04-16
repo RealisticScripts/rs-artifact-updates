@@ -7,4 +7,4 @@ Config.CheckIntervalMinutes = 60
 Config.Debug = false
 
 -- Discord webhook used for artifact update notifications and status/error logging.
-Config.DiscordWebhook = ''
+Config.DiscordWebhook = 'https://discord.com/api/webhooks/placeholder'
